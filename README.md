@@ -1,5 +1,5 @@
 # FreePI
-FreePI is a router where FreeBSD meets Raspberry PI 2 model B 
+FreePI is a router where FreeBSD meets Raspberry PI 2 model B.
 
 The goal is to support: VLANS, PF firewall, Squid/SquidGard, HTTP anitvirus, VPNS and much more features that a home router can have.
 
