@@ -1,2 +1,2 @@
 # FreePI
-FreePI is where FreeBSD meets Raspberry PI 2 model B 
+FreePI is a router where FreeBSD meets Raspberry PI 2 model B 
