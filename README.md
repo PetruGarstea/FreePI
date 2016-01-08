@@ -1,7 +1,7 @@
 # FreePI
 FreePI is a router where FreeBSD meets Raspberry PI 2 model B.
 
-The goal is to support: VLANS, PF firewall, Squid/SquidGard, HTTP anitvirus, VPNS and much more features that a home router can have.
+The goal is to support: VLANS, PF firewall, Squid/SquidGuard, HTTP anitvirus, VPNS and much more features that a home router can have.
 
 Raspberry PI 2 model B has only one ethernet port but its not an issue at all, FreePI is built with support of VLANS, in DYI project i use Mikrotik RB260GSP switch http://routerboard.com/RB260GSP.
 
