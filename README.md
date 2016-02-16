@@ -13,7 +13,7 @@ Tweets:
 
 1. The FreeBSD OS is ready.
 2. The packages were built
-3. pfctl doesnt creahses
+3. pfctl doesnt crashes
 4. pftop crashes
 5. VLAN support tested
 6. firewall and NAT is ready and tested
