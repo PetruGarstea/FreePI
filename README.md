@@ -11,10 +11,12 @@ There are many packages were compiled but not tested, if you decide to try FreeP
 
 Tweets:
 
-1. The FreeBSD OS is ready.
+1. The FreeBSD OS is ready
 2. The packages were built
-3. pfctl doesnt crashes
-4. pftop crashes
+3. Pfctl doesnt crashes
+4. *** Pftop still crashes
 5. VLAN support tested
-6. firewall and NAT is ready and tested
-7. Working on blocking the advertisements/banners feature  
+6. Firewall and NAT is ready and tested
+7. DNS and DHCP are added
+8. Kernel with support of IPsec NAT treversal added
+9. OpenVPN and StrongSwan packages were built
