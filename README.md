@@ -20,3 +20,6 @@ Tweets:
 7. DNS and DHCP are added
 8. Kernel with support of IPsec NAT treversal added
 9. OpenVPN and StrongSwan packages were built
+10. Netflow based on netgraph has been implemented
+11. Ntopng as flow collector in docker environment has been created
+12. Elasticsearch in docker environment has been built to archive the netflows
